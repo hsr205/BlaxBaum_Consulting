@@ -1,0 +1,117 @@
+* {
+    font-family: 'Rufina', serif;
+  }
+  
+  html {
+    font-family: 'Rufina', serif;
+  }
+
+  body {
+    background: #eee;
+  }
+
+/* Nav Bar Section */
+
+#navbarTogglerDemo02{
+  text-align: center;
+}
+
+.landing-section {
+  background-image: url("Industrial_Campus.jpg");
+}
+
+.Logo-Header {
+  margin-right: 1%;
+  height: 7.5%;
+  width: 7.5%;
+}
+
+hr {
+  display: transparent;
+}
+
+/* First Section */
+
+.content-under-header {
+  color: white;
+  padding: 8.5% 0 0 11.5%;
+}
+
+.btn {
+  margin-right: 2%;
+  padding: 1%;
+}
+
+.initial-content {
+  text-align: left;
+  padding-bottom: 13%;
+}
+
+.logo-reg {
+  float: right;
+  padding: 0 0 2.5% 12.5%;
+}
+
+@media (max-width: 991px) {
+  .logo-reg {
+    display: none;
+  }
+}
+
+/* Body Section */
+
+.body-content {
+    background-color: black;
+}
+
+
+/* Second Section */
+
+.operations {
+  background-color: #000000;
+  color: #eee;
+}
+
+.fas {
+  padding: 4%;
+}
+
+.operation-comments {
+  text-align: center;
+  padding: 5% 2% 5% 2%;
+}
+.fa-briefcase {
+  padding: 1.75% 0 7% 0;
+}
+
+/* Third Section */
+
+.Third_Section {
+  padding: 3%;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.Third_Section_Button {
+  margin: 1% 0 0 1%;
+  padding: 1.5% 4%;
+}
+
+/* Footer Section */
+
+  .footer {
+    background-color: black;
+    padding-top: 1%;
+    text-align: center;
+    color: white;
+  }
+
+  .footer-icon {
+    align-items: center;
+    padding: 1% 2% 5% 2%;
+    color: white;
+  }
+
+
+
+  

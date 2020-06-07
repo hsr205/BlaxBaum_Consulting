@@ -114,6 +114,33 @@ hr {
     color: white;
   }
 
+
+
+/* Leadership Page */
+
+.leadership-text {
+  /* background-color: rgb(238, 235, 235); */
+  padding: 5% 3% 0 3%;
+}
+
+.leadership-header {
+  padding: 3% 0 0 10%;
+}
+
+.head-shots {
+  width: 350px;
+  height: 350px;
+  /* border-radius: 100%; */
+}
+
+.Personal-Sections {
+  padding: 5%;
+}
+
+
+
+
+
 /* Contact Page */
 
 /* Nav Bar Section - Contact Page*/
@@ -125,15 +152,21 @@ hr {
 .contacts-first-section {
   background-color: white;
 }
+.header-contact {
+  padding: 3% 0 0 17%;
+}
 
-.contact-section {
-  padding: 5% 0 0 2%;
+.contact-text {
+  padding: 0 17% 0 17%;
 }
 
 .contact-submit {
   padding: 1% 0 17% 0;
 }
 
+.form-section {
+  padding: 2% 0 5.5% 16.5%;
+}
 
   /* Footer Section - Contact Page*/
 

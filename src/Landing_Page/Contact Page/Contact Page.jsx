@@ -1,6 +1,6 @@
 import React from "react";
-import Logo_Header from "../components/First_Section/Header/Logo_Header"
-import First_Section_Contacts from "./Contact Page All Sections"
+import Logo_Header from "../components/First_Section/Header/Logo_Header";
+import First_Section_Contacts from "./Contact Page All Sections";
 
 export default function Contact_Page_Header() {
     return ( 

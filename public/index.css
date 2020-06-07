@@ -10,7 +10,7 @@
     background: #eee;
   }
 
-/* Nav Bar Section */
+/* Nav Bar Section - Landing Page*/
 
 #navbarTogglerDemo02{
   text-align: center;
@@ -29,6 +29,8 @@
 hr {
   display: transparent;
 }
+
+
 
 /* First Section */
 
@@ -109,6 +111,36 @@ hr {
   .footer-icon {
     align-items: center;
     padding: 1% 2% 5% 2%;
+    color: white;
+  }
+
+/* Contact Page */
+
+/* Nav Bar Section - Contact Page*/
+
+.contact-page {
+  background-color: black;
+}
+
+.contacts-first-section {
+  background-color: white;
+}
+
+.contact-section {
+  padding: 5% 0 0 2%;
+}
+
+.contact-submit {
+  padding: 1% 0 17% 0;
+}
+
+
+  /* Footer Section - Contact Page*/
+
+  .footer-contact{
+    background-color: black;
+    padding-top: 2.5%;
+    text-align: center;
     color: white;
   }
 

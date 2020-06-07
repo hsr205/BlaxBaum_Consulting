@@ -1,6 +1,6 @@
 import React from "react";
 
-function Second_Section() {
+export default function Second_Section() {
     return (
         <div className = "operations">
             <div class="container">
@@ -28,5 +28,3 @@ function Second_Section() {
         </div>
     );
 }
-
-export default Second_Section;

@@ -1,10 +1,11 @@
 import React from "react";
 import Logo_Footer from "./Logo_Footer";
 
-function Footer() {
+export default function Footer() {
     const year = new Date().getFullYear();
     return (
-     <div className = "footer">
+      <footer>
+        <div className = "footer">
             <div class="container">
                 <div class="row">
                     <div class="col-lg footer-contents">
@@ -15,8 +16,8 @@ function Footer() {
                     </div>
                 </div>
             </div>
-      </div>
+          </div>
+      </footer>
     );
   }
 
-export default Footer;

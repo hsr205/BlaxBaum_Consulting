@@ -1,6 +1,6 @@
 import React from "react";
 
-function Third_Section() {
+export default function Third_Section() {
     return (
         <div className = "Third_Section">
             <h1>Ready to streamline your business?</h1>
@@ -15,6 +15,3 @@ function Third_Section() {
     );
 }
 
-
-
-export default Third_Section;

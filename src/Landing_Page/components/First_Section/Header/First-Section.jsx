@@ -3,7 +3,7 @@ import Logo from "./Logo_Regular";
 import Logo_Header from "./Logo_Header"
 
 
-function First_Section() {
+export default function First_Section() {
     return (
   <div className = "landing-section">
       <div className = "initial-content">
@@ -41,8 +41,7 @@ function First_Section() {
                   <div col-md-6 col-sm-12>
                     <h1>Simplify Your Practice</h1>
                     <hr/>
-                    <p className = "content-img-paragraph">BlaxBaum Consulting is a Philadelphia based operational development consulting firm focused on optimizing 
-                    law office processes through practical, modern, and data-driven solutions.</p>
+                    <p className = "content-img-paragraph">BlaxBaum Consulting is where student success begins. Land your dream internship, enhance your academic prowess, and builds your financial literacy in a matter of hours. </p>
                     <hr/>
                     <a href=""><button type="button" class="btn btn-dark btn-sm">Request a Consultation</button></a>
                     <a href=""><button type="button" class="btn btn-light btn-sm">Services for Businesses</button></a>
@@ -55,5 +54,4 @@ function First_Section() {
     );
 }
 
-export default First_Section;
 

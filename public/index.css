@@ -30,14 +30,23 @@ hr {
   display: transparent;
 }
 
-
-
 /* First Section */
+
+.content-img-paragraph{
+  padding: 2% 45% 2% 0;
+}
+
+@media (max-width: 991px) {
+  .content-img-paragraph{
+    padding: 2% 0 2% 0;
+  }
+}
 
 .content-under-header {
   color: white;
   padding: 8.5% 0 0 11.5%;
 }
+
 
 .btn {
   margin-right: 2%;
@@ -53,12 +62,10 @@ hr {
   float: right;
   width: 290px;
   height: 290px;
-  margin: 0 0 0 5%;
-
 }
 
 @media (max-width: 991px) {
-  .logo-reg {
+  .logo-regular {
     display: none;
   }
 }
@@ -75,6 +82,14 @@ hr {
 .operations {
   background-color: #000000;
   color: #eee;
+}
+
+@media (max-width: 991px) {
+  .Opp-Div {
+    width: 100%;
+    height: 0.5px;
+    background-color: white;
+  }
 }
 
 .fas {
@@ -150,6 +165,25 @@ hr {
 }
 
 @media (max-width: 991px) {
+  .personal-par  {
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .personal-par-bottom  {
+    text-align: left;
+    padding-left: 2%;
+  }
+}
+
+@media (max-width: 991px) {
+  .head-shots  {
+    padding: 1% 0 0 0;
+  }
+}
+
+
+@media (max-width: 991px) {
   .person-content  {
     text-align: center;
   }
@@ -174,9 +208,26 @@ hr {
 .contacts-first-section {
   background-color: white;
 }
-.header-contact {
+
+@media (max-width: 991px) {
+    .header-contact {
+    padding: 3% 0 0 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .header-contact {
   padding: 3% 0 0 17%;
 }
+}
+
+@media (max-width: 991px) {
+  .header-contact{
+    text-align: center;
+  }
+}
+
+
 
 .contact-text {
   padding: 0 17% 0 17%;

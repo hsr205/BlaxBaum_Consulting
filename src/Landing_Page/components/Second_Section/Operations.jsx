@@ -11,12 +11,14 @@ export default function Second_Section() {
                         <p>Our operational strategies are structured in a way that allows for a vibrant, customized approach for every type of law practice. 
                         This allows staff to shift their focus solely toward their clients.</p>
                     </div>
+                    <hr className = "Opp-Div"/>
                     <div class="operation-comments col-lg-4 col-sm-12">
                         <h3>Comprehensive Reporting</h3>
                         <i class="fas fa-briefcase fa-4x"></i>
                         <p>BlaxBaum reporting allows management to stay informed. 
                         In addition to performance overviews, BlaxBaum delivers actionable insights to continually drive optimizations.</p>
                     </div>
+                    <hr className = "Opp-Div"/>
                     <div class="operation-comments col-lg-4 col-sm-12">
                         <h3>Identify New Revenue Streams</h3>
                         <i class="fas fa-money-bill-wave fa-4x"></i>

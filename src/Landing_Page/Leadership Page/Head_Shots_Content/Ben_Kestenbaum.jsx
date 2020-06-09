@@ -13,7 +13,7 @@ export default function Ben_Kestenbaum() {
                         <p>Phone: (443) 680-4082</p>
                         <p>Email: <a href="mailto:"></a></p>
                         <p><a href="https://www.linkedin.com/in/benkestenbaum/">LinkedIn</a></p>
-                        <p>Finance, Business Analytics, and Data Science student with an unwavering desire to learn. 
+                        <p className = "personal-par">Finance, Business Analytics, and Data Science student with an unwavering desire to learn. 
                         Areas of Interest: Algorithmic Trading, Consumer/Market Psychology, Financial Modeling, Financial Technology, Investment Research, Machine Learning/AI, Portfolio Optimization. 
                         Experience using Bloomberg Terminal, FactSet, Python, MATLAB, Excel. </p>
                     </div>

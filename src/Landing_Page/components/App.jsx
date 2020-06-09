@@ -4,7 +4,6 @@ import Contact_Page from "../Contact Page/Contact Page";
 import Contacts from "../Contact Page/Contacts";
 import Leadership_Page from "../Leadership Page/Leadership Page";
 import Leadership from "../Leadership Page/Leadership";
-
 import { render } from "@testing-library/react";
 
 
@@ -12,7 +11,7 @@ export default class App extends React.Component {
   constructor(props){
       super(props);
       this.state = {
-          view : "landing-page",
+          view : "leadership-page",
       }
       this.setView = this.setView.bind(this)
   }

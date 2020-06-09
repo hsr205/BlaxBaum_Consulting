@@ -49,9 +49,12 @@ hr {
   padding-bottom: 13%;
 }
 
-.logo-reg {
+.logo-regular {
   float: right;
-  padding: 0 0 2.5% 12.5%;
+  width: 290px;
+  height: 290px;
+  margin: 0 0 0 5%;
+
 }
 
 @media (max-width: 991px) {

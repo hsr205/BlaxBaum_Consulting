@@ -1,8 +1,8 @@
 import React from "react";
 import Footer from "../components/Footer/Footer";
-import Gav_Blaxberg from "./Gav_Blaxberg";
-import Ben_Kestenbaum from "./Ben_Kestenbaum";
-import Henry_Rothenberg from "./Henry_Rothenberg";
+import Gav_Blaxberg from "./Head_Shots/Gav_Blaxberg";
+import Ben_Kestenbaum from "./Head_Shots/Ben_Kestenbaum";
+import Henry_Rothenberg from "./Head_Shots/Henry_Rothenberg";
 import Third_Section from "../components/Third_Section/Third_Section";
 
 const year = new Date().getFullYear();

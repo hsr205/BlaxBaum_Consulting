@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a90429b2.chunk.js",
+    "main.js.map": "/static/js/main.a90429b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c57d8233.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c57d8233.js.map",
+    "static/js/2.c0f7feb2.chunk.js": "/static/js/2.c0f7feb2.chunk.js",
+    "static/js/2.c0f7feb2.chunk.js.map": "/static/js/2.c0f7feb2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c2bc4a3f8bca69b3a7879ae2f9a376b3.js": "/precache-manifest.c2bc4a3f8bca69b3a7879ae2f9a376b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c0f7feb2.chunk.js.LICENSE.txt": "/static/js/2.c0f7feb2.chunk.js.LICENSE.txt",
+    "static/media/Ben_Kestenbaum.jpg": "/static/media/Ben_Kestenbaum.980e6191.jpg",
+    "static/media/BlaxBaum_Logo.png": "/static/media/BlaxBaum_Logo.8f3b66b2.png",
+    "static/media/Gav_Blaxberg.jpg": "/static/media/Gav_Blaxberg.a4757cd0.jpg",
+    "static/media/Henry_Rothenberg.jpeg": "/static/media/Henry_Rothenberg.4fbdd60e.jpeg",
+    "static/media/logo.png": "/static/media/logo.27b0ad0b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57d8233.js",
+    "static/js/2.c0f7feb2.chunk.js",
+    "static/js/main.a90429b2.chunk.js"
+  ]
+}

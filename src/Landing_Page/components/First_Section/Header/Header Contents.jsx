@@ -3,7 +3,7 @@ import Logo_Header from "./Logo_Header"
 
 export default function Header_Content () {
     return (
-    <div class="container">
+    <div className="container">
             <Logo_Header/>
             <a className="navbar-brand" href="#">BlaxBaum Consulting</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">

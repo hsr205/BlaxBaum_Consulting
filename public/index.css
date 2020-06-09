@@ -118,7 +118,6 @@ hr {
   }
 
 
-
 /* Leadership Page */
 
 .leadership-text {
@@ -127,17 +126,37 @@ hr {
 }
 
 .leadership-header {
-  padding: 3% 0 0 10%;
+  padding: 2% 0 2% 0;
+  text-align: center;
+}
+
+.leadership-desc {
+  padding-top: 2.5%;
+}
+
+.desc {
+  padding-top: 3.25%;
+}
+
+.divider {
+  text-align: center;
 }
 
 .head-shots {
   width: 350px;
   height: 350px;
-  /* border-radius: 100%; */
+  margin-bottom: 10%;
+  border-radius: 100%;
+}
+
+@media (max-width: 991px) {
+  .person-content  {
+    text-align: center;
+  }
 }
 
 .Personal-Sections {
-  padding: 5%;
+  padding:  1.5% 5% 2% 5%;
 }
 
 

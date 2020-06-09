@@ -1,5 +1,6 @@
 import React from "react";
 import Logo from "./Logo_Regular";
+import Initial_Content from "./Initial_Content"
 
 import Header_Contents from "./Header Contents"
 
@@ -17,14 +18,7 @@ export default function First_Section() {
           <div class="row">
              <div className = "content-under-header">
                 <div className = "col-lg-6 logo-regular"><Logo/></div>
-                  <div col-md-6 col-sm-12>
-                    <h1>Simplify Your Practice</h1>
-                    <hr/>
-                    <p className = "content-img-paragraph">BlaxBaum Consulting is where student success begins. Land your dream internship, enhance your academic prowess, and builds your financial literacy in a matter of hours. </p>
-                    <hr/>
-                    <a href=""><button type="button" class="btn btn-dark btn-sm">Request a Consultation</button></a>
-                    <a href=""><button type="button" class="btn btn-light btn-sm">Services for Businesses</button></a>
-                  </div>
+                  <Initial_Content/>
                 </div>
               </div>
             </div>
@@ -32,5 +26,4 @@ export default function First_Section() {
         </div>
     );
 }
-
 

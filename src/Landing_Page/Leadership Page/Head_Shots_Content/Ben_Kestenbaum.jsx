@@ -13,10 +13,10 @@ export default function Gav_Blaxberg() {
                     <p>Phone: (908) 300-2273</p>
                     <p>Email: <a href="mailto:bkestenbaum01@gmail.com">bkestenbaum01@gmail.com</a></p>
                     <p><a href="https://www.linkedin.com/in/benkestenbaum/">LinkedIn</a></p>
-                    <p className = "personal-par">Gavriel Blaxberg is a senior at Drexel University majoring in Finance and minoring in Computer Science. 
-                    He is currently on track to graduate early, summa cum laude, with honors distinction. He has recent in-depth experience working analyst roles in both Private Equity and Private Wealth Management at notable firms including Versa Capital Management and Goldman Sachs. 
-                    During these periods he assisted in the collective management of over six billion dollars of assets and played a key liaison role between the firm and multiple portfolio companies. 
-                    Gavriel utilizes a unique combination of resume development and employer relation skills to create value for BlaxBaum Consulting and be an integral part of the team. </p>
+                    <p className = "personal-par">Ben Kestenbaum is an undergraduate student pursuing degrees in Finance and Business Analytics with a minor in Data Science. 
+                    Ben works as an analyst at JP Morgan, where he and his team manage a $250 billion global investment securities portfolio; 
+                    Ben is also the Co-Founder and Head of Investment Research at WOLF Financial. 
+                    He serves as the Vice President of DrexelAI, a Philadelphia based academic research group. </p>
                  </div>
                  </div>
         </div>

@@ -96,7 +96,7 @@ hr {
   }
 }
 
-.fas {
+.opp-img {
   padding: 4%;
 }
 
@@ -136,6 +136,206 @@ hr {
     color: white;
   }
 
+
+/* Services Section */
+
+
+/* Career Coaching */
+
+.career-coaching-page {
+  background-color: black;
+}
+
+.career-coaching-div {
+  background-color: black;
+  color: white;
+  margin: 24% 0 0 0%;
+  position: absolute;
+  width: 400px;
+  height: 125px;
+  text-align: center;
+}
+
+.career-coaching-header {
+  padding-top: 4%;
+}
+
+.Philadelphia-Img {
+  background-image: url("Industrial_Campus.jpg");
+  width: 100%;
+  height: 375px;
+}
+
+.div-professional {
+  width: 16%;
+  height: 22%;
+  position: absolute;
+  margin: 5% 0 0 14.5%;
+  background-color: rgb(61, 60, 60);
+  color: white;
+  text-align: center;
+}
+
+.div-professional-text {
+  padding: 10% 3% 0 3%;
+}
+
+.first-text-div {
+  position: absolute;
+  margin: 5% 0 0 34%;
+  width: 45%;
+  height: 30%;
+}
+
+.first-text {
+  padding: 1%;
+}
+
+.side-div {
+  width: 18%;
+  height: 35%;
+  position: absolute;
+  margin: 27.5% 0 0 70%;
+  background-color: rgb(61, 60, 60);
+  color: white;
+  text-align: left;
+}
+
+.side-div-text {
+  padding: 5% 3% 0 3%;
+}
+
+.side-div-text-header {
+  padding-top: 5%;
+  text-align: left;
+}
+
+.side-div-bottom {
+  width: 18%;
+  height: 20%;
+  position: absolute;
+  margin: 53.5% 0 0 70%;
+  background-color: rgb(61, 60, 60);
+  color: white;
+  text-align: center;
+}
+
+.side-div-text-bottom {
+  padding: 15% 3% 7% 3%;
+}
+
+.side-div-text-header {
+  padding-top: 5%;
+  text-align: left;
+}
+
+.ready-btn {
+  padding: 5% 10% 5% 10%;
+}
+
+
+.entry-level-div {
+  background-color: rgb(219, 217, 217);
+  position: absolute;
+  color: black;
+  margin: 27.5% 0 0 14.5%;
+  width: 48%;
+  height: 26.5%;
+  border-bottom: black;
+}
+
+.career-image {
+  position: absolute;
+  margin: 3% 0 0 3%;
+}
+
+.entry-level-header{
+  margin: 3% 0 0 12%;
+}
+
+.entry-level-text {
+  margin: 3% 0 0 12%;
+}
+
+.professional-level-div {
+  background-color: rgb(219, 217, 217);
+  position: absolute;
+  color: black;
+  margin: 47.5% 0 0 14.5%;
+  width: 48%;
+  height: 28%;
+  border-bottom: black;
+}
+
+.career-image {
+  position: absolute;
+  margin: 3% 0 0 3%;
+}
+
+.professional-level-header{
+  margin: 3% 0 0 12%;
+}
+
+.professional-level-text {
+  margin: 3% 0 0 12%;
+}
+
+.executive-level-div {
+  background-color: rgb(219, 217, 217);
+  position: absolute;
+  color: black;
+  margin: 68.5% 0 0 14.5%;
+  width: 48%;
+  height: 28%;
+  border-bottom: black;
+}
+
+.career-image {
+  position: absolute;
+  margin: 3% 0 0 3%;
+}
+
+.executive-level-header{
+  margin: 3% 0 0 12%;
+}
+
+.executive-level-text {
+  margin: 3% 0 0 12%;
+}
+
+.features-footer {
+  margin-top: 92.5%;
+}
+
+
+
+/* Cover Letter */
+
+.cover-letter-page {
+  background-color: black;
+}
+
+/* Interview Preparation */
+
+.interview-prep-page {
+  background-color: black;
+}
+
+/* LinkedIn Profile */
+
+.linkedin-profile {
+  background-color: black;
+}
+
+/* Resume Writing */
+
+.resume-writing-page {
+  background-color: black;
+}
+
+.thank-you-letter-page {
+  background-color: black;
+}
 
 /* Leadership Page */
 

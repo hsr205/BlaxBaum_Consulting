@@ -4,8 +4,8 @@ import Contact_Page from "../Contact Page/Contact Page";
 import Contacts from "../Contact Page/Contacts";
 import Leadership_Page from "../Leadership Page/Leadership Page";
 import Leadership from "../Leadership Page/Leadership";
-import Career_Coaching from "../Features_Pages/Features - Career_Coaching";
-import Cover_Letter from "../Features_Pages/Features - Cover_Letter_Writing";
+import Career_Coaching from "../Features_Pages/Career_Coaching/Features - Career_Coaching"
+import Cover_Letter from "../Features_Pages/Cover_Letter/Features - Cover_Letter_Writing";
 import Resume_Writing from "../Features_Pages/Features - Resume_Writing";
 import Interview_Preparation from "../Features_Pages/Features - Interview_Preparation";
 import LinkedIn_Profile from "../Features_Pages/Features - LinkedIn_Profile_Writing";
@@ -17,7 +17,7 @@ export default class App extends React.Component {
   constructor(props){
       super(props);
       this.state = {
-          view : "landing-page",
+          view : "features-cover-letter",
       }
       this.setView = this.setView.bind(this)
   }

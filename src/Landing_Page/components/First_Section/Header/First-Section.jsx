@@ -1,7 +1,6 @@
 import React from "react";
 import Logo from "./Logo_Regular";
 import Initial_Content from "./Initial_Content"
-
 import Header_Contents from "./Header Contents"
 
 

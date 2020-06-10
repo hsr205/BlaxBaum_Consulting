@@ -33,7 +33,11 @@ hr {
 /* First Section */
 
 .content-img-paragraph{
-  padding: 2% 45% 2% 0;
+  padding: 1% 45% 2% 0;
+}
+
+.b-franklin {
+  padding: 2% 0 0 0;
 }
 
 @media (max-width: 991px) {

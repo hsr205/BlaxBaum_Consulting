@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer/Footer";
 import Gav_Blaxberg from "./Head_Shots_Content/Gav_Blaxberg";
-import Ben_Kestenbaum from "./Head_Shots_Content/Ben_Kestenbaum";
+import Ben_Kestenbaum from "./Head_Shots_Content/Ben_Kestenbaum.jsx";
 import Henry_Rothenberg from "./Head_Shots_Content/Henry_Rothenberg";
 import Third_Section from "../components/Third_Section/Third_Section";
 
@@ -13,9 +13,9 @@ export default function All_Sections_Leadership () {
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 leadership-text">
-                        <p>BlaxBaum prides itself on the talent and diversity of its people. With many years of experience holding positions of various capacities within the business industry 
+                        <p>BlaxBaum Consulting prides itself on the talent and diversity of its people. With many years of experience holding positions of various capacities within the business industry 
                         – backgrounds ranging from financial analysts to databasing and private equity managment – 
-                        BlaxBaum’s multi-disciplinary approach will provide your firm with uniquely well-rounded methods toward operational development.</p>
+                        BlaxBaum Consulting's multi-disciplinary approach will provide you a with uniquely well-rounded method to approach landing your dream position.</p>
                     </div>
                 </div>
             </div>

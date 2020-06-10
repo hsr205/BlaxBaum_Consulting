@@ -4,6 +4,12 @@ import Contact_Page from "../Contact Page/Contact Page";
 import Contacts from "../Contact Page/Contacts";
 import Leadership_Page from "../Leadership Page/Leadership Page";
 import Leadership from "../Leadership Page/Leadership";
+import Career_Coaching from "../Features_Pages/Features - Career_Coaching";
+import Cover_Letter from "../Features_Pages/Features - Cover_Letter_Writing";
+import Resume_Writing from "../Features_Pages/Features - Resume_Writing";
+import Interview_Preparation from "../Features_Pages/Features - Interview_Preparation";
+import LinkedIn_Profile from "../Features_Pages/Features - LinkedIn_Profile_Writing";
+import Thank_You_Letter from "../Features_Pages/Features - Thank_You_Letter_Writing";
 import { render } from "@testing-library/react";
 
 
@@ -11,7 +17,7 @@ export default class App extends React.Component {
   constructor(props){
       super(props);
       this.state = {
-          view : "leadership-page",
+          view : "landing-page",
       }
       this.setView = this.setView.bind(this)
   }
@@ -33,8 +39,27 @@ export default class App extends React.Component {
 
     } else if (this.state.view === "leadership") {
       return <Leadership view={this.setView}/>
+
     } else if (this.state.view === "leadership-page") {
       return <Leadership_Page view={this.setView}/>
+
+    } else if (this.state.view === "features-career-coaching") {
+      return <Career_Coaching view={this.setView}/>
+
+    } else if (this.state.view === "features-cover-letter") {
+      return <Cover_Letter view={this.setView}/>
+
+    } else if (this.state.view === "features-resume-writing") {
+      return <Resume_Writing view={this.setView}/>
+
+    } else if (this.state.view === "features-interview-prep") {
+      return <Interview_Preparation view={this.setView}/>
+
+    } else if (this.state.view === "features-linkedin-profile") {
+      return <LinkedIn_Profile view={this.setView}/>
+
+    } else if (this.state.view === "features-thank-you-letter") {
+      return <Thank_You_Letter view={this.setView}/>
     }
   }
 };

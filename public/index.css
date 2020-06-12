@@ -1,9 +1,9 @@
 * {
-    font-family: 'Rufina', serif;
+    font-family: 'PT Sans', sans-serif;
   }
   
   html {
-    font-family: 'Rufina', serif;
+    font-family: 'PT Sans', sans-serif;
   }
 
   body {
@@ -14,6 +14,10 @@
 
 #navbarTogglerDemo02{
   text-align: center;
+}
+
+.navbar {
+  background-color: black;
 }
 
 .landing-section {
@@ -77,7 +81,7 @@ hr {
 /* Body Section */
 
 .body-content {
-    background-color: black;
+    background-color:grey;
 }
 
 
@@ -113,7 +117,7 @@ hr {
 .Third_Section {
   padding: 3%;
   text-align: center;
-  background-color: aliceblue;
+  background-color: rgb(202, 195, 165);
 }
 
 .Third_Section_Button {
@@ -136,233 +140,19 @@ hr {
     color: white;
   }
 
-
-/* Services Section */
-
-
-/* Career Coaching */
-
-.career-coaching-page {
-  background-color: black;
-}
-
-.career-coaching-div {
-  background-color: black;
-  color: white;
-  margin: 24% 0 0 0%;
-  position: absolute;
-  width: 400px;
-  height: 125px;
-  text-align: center;
-}
-
-.career-coaching-header {
-  padding-top: 4%;
-}
-
-.Philadelphia-Img {
-  background-image: url("Industrial_Campus.jpg");
-  width: 100%;
-  height: 375px;
-}
-
-.div-professional {
-  width: 16%;
-  height: 22%;
-  position: absolute;
-  margin: 5% 0 0 14.5%;
-  background-color: rgb(61, 60, 60);
-  color: white;
-  text-align: center;
-}
-
-.div-professional-text {
-  padding: 10% 3% 0 3%;
-}
-
-.first-text-div {
-  position: absolute;
-  margin: 5% 0 0 34%;
-  width: 45%;
-  height: 30%;
-}
-
-.first-text {
-  padding: 1%;
-}
-
-.side-div {
-  width: 18%;
-  height: 35%;
-  position: absolute;
-  margin: 27.5% 0 0 70%;
-  background-color: rgb(61, 60, 60);
-  color: white;
-  text-align: left;
-}
-
-.side-div-text {
-  padding: 5% 3% 0 3%;
-}
-
-.side-div-text-header {
-  padding-top: 5%;
-  text-align: left;
-}
-
-.side-div-bottom {
-  width: 18%;
-  height: 20%;
-  position: absolute;
-  margin: 53.5% 0 0 70%;
-  background-color: rgb(61, 60, 60);
-  color: white;
-  text-align: center;
-}
-
-.side-div-text-bottom {
-  padding: 15% 3% 7% 3%;
-}
-
-.side-div-text-header {
-  padding-top: 5%;
-  text-align: left;
-}
-
-.ready-btn {
-  padding: 5% 10% 5% 10%;
-}
-
-
-.entry-level-div {
-  background-color: rgb(219, 217, 217);
-  position: absolute;
-  color: black;
-  margin: 27.5% 0 0 14.5%;
-  width: 48%;
-  height: 26.5%;
-  border-bottom: black;
-}
-
-.career-image {
-  position: absolute;
-  margin: 3% 0 0 3%;
-}
-
-.entry-level-header{
-  margin: 3% 0 0 12%;
-}
-
-.entry-level-text {
-  margin: 3% 0 0 12%;
-}
-
-.professional-level-div {
-  background-color: rgb(219, 217, 217);
-  position: absolute;
-  color: black;
-  margin: 47.5% 0 0 14.5%;
-  width: 48%;
-  height: 28%;
-  border-bottom: black;
-}
-
-.career-image {
-  position: absolute;
-  margin: 3% 0 0 3%;
-}
-
-.professional-level-header{
-  margin: 3% 0 0 12%;
-}
-
-.professional-level-text {
-  margin: 3% 0 0 12%;
-}
-
-.executive-level-div {
-  background-color: rgb(219, 217, 217);
-  position: absolute;
-  color: black;
-  margin: 68.5% 0 0 14.5%;
-  width: 48%;
-  height: 28%;
-  border-bottom: black;
-}
-
-.career-image {
-  position: absolute;
-  margin: 3% 0 0 3%;
-}
-
-.executive-level-header{
-  margin: 3% 0 0 12%;
-}
-
-.executive-level-text {
-  margin: 3% 0 0 12%;
-}
-
-.features-footer {
-  margin-top: 92.5%;
-}
-
-
-/* Cover Letter Help */
-
-.div-cover {
-  width: 16%;
-  height: 16.5%;
-  position: absolute;
-  margin: 5% 0 0 14.5%;
-  background-color: rgb(61, 60, 60);
-  color: white;
-  text-align: center;
-}
-
-.personalize-cover-div {
-  background-color: rgb(219, 217, 217);
-  position: absolute;
-  color: black;
-  margin: 27.5% 0 0 14.5%;
-  width: 48%;
-  height: 23%;
-  border-bottom: black;
-}
-
-/* Cover Letter */
-
-.cover-letter-page {
-  background-color: black;
-}
-
-/* Interview Preparation */
-
-.interview-prep-page {
-  background-color: black;
-}
-
-/* LinkedIn Profile */
-
-.linkedin-profile {
-  background-color: black;
-}
-
-/* Resume Writing */
-
-.resume-writing-page {
-  background-color: black;
-}
-
-.thank-you-letter-page {
-  background-color: black;
-}
+/* Contact Page */
 
 /* Leadership Page */
 
+.leadership-section {
+  background-color: rgb(202, 195, 165);
+}
+
 .leadership-text {
-  /* background-color: rgb(238, 235, 235); */
-  padding: 5% 3% 0 3%;
+  background-color: rgb(182, 177, 153);
+  padding: 1% 3% 0 3%;
+  margin-top: 2.5%;
+
 }
 
 .leadership-header {
@@ -407,7 +197,6 @@ hr {
   }
 }
 
-
 @media (max-width: 991px) {
   .person-content  {
     text-align: center;
@@ -419,11 +208,6 @@ hr {
 }
 
 
-
-
-
-/* Contact Page */
-
 /* Nav Bar Section - Contact Page*/
 
 .contact-page {
@@ -431,7 +215,7 @@ hr {
 }
 
 .contacts-first-section {
-  background-color: white;
+  background-color: rgb(202, 195, 165);
 }
 
 @media (max-width: 991px) {
@@ -451,8 +235,6 @@ hr {
     text-align: center;
   }
 }
-
-
 
 .contact-text {
   padding: 0 17% 0 17%;
@@ -475,6 +257,145 @@ hr {
     color: white;
   }
 
+/* Services Section */
 
 
-  
+/* Career Coaching */
+
+.career-coaching-page {
+  background-color: rgb(202, 195, 165);
+}
+
+.Philadelphia-Img {
+  background-image: url("Industrial_Campus.jpg");
+  height: 400px;
+}
+
+.career-coaching-header {
+  color: white;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.div-under-img {
+  margin: 5% 2.5% 0 10%;
+}
+
+.under-img-text-left {
+  background-color: rgb(61, 60, 60);
+  text-align: center;
+  padding: 7.5%;
+  color: white;
+}
+
+.div-under-img-right {
+  margin-top: 5%;
+}
+
+.grey-divivder {
+  color: #eee;
+}
+
+.entry-level-div {
+  background-color: rgb(61, 60, 60);
+  color: white;
+  padding-bottom: 3%;
+  margin: 5% 0 0 11.25%;
+}
+
+.entry-level-text {
+  margin: 3% 0 0 12%;
+}
+
+.professional-level-text {
+  margin: 3% 0 0 12%;
+}
+
+.white-divivder {
+  background-color: white;
+  text-align: center;
+  color: white;
+  margin-top: 5%;
+}
+
+.middle-divs {
+  margin-top: 3.25%;
+  text-align: center;
+}
+
+
+@media (max-width: 991px) {
+  .middle-divs{
+    display: none;
+  }
+}
+
+.professional-level-div {
+  background-color: rgb(202, 195, 165);
+  color: black;
+  padding-bottom: 3%;
+}
+
+.entry-level-header{
+  margin: 3% 0 0 12%;
+}
+
+.professional-level-header {
+  margin: 3% 0 0 12%;
+}
+
+.career-image {
+  position: absolute;
+  margin: 3% 0 0 3%;
+}
+
+@media (max-width: 991px) {
+  .content-img-paragraph{
+    padding: 2% 0 2% 0;
+  }
+}
+
+.executive-level-header{
+  margin: 3% 0 0 12%;
+}
+
+.executive-level-text {
+  margin: 3% 0 0 12%;
+}
+
+.executive-level-div {
+  background-color: rgb(219, 217, 217);
+  color: black;
+  border-bottom: black;
+}
+
+.why-us-div {
+  background-color: rgb(61, 60, 60);
+  color: white;
+  padding: 2.5%;
+}
+
+.why-us-div-text-header {
+  padding: 2.5% 0 2.5% 0;
+}
+
+.ready-div {
+  background-color: rgb(61, 60, 60);
+  color: white;
+  padding: 2.5% 2.5% 7.5% 2.5%;
+  text-align: center;
+  margin: 10% -10% 0 0;
+}
+
+.ready-div-text {
+  padding: 20% 0 0 10%;
+}
+
+.ready-btn {
+  padding: 2.5% 10% 2.5% 10%;
+  margin: 6% 7.5% 7.5% 11%;
+}
+
+.features-footer {
+  margin-top: 10%;
+}

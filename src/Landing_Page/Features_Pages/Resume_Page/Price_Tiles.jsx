@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Price_Tiles () {
     return (
-    <div>
+        <div>
         <div className = "container">
             <div className = "row">
                 <div className = "col-lg-9 entry-level-div">
@@ -68,3 +68,5 @@ export default function Price_Tiles () {
     </div>
     );
 }
+
+

@@ -19,7 +19,7 @@ export default function All_Sections_Contacts () {
                         time that’s convenient for you. We look forward to hearing from you.</p>
                     </div>
                     <div className = "col-lg-10 col-sm-9 form-section"><Form_Section/></div>
-                    <div ><Footer/></div>
+                    <div className = "contact-page-footer"><Footer/></div>
                 </div>   
             </div>
         </div>

@@ -6,10 +6,10 @@ import Leadership_Page from "../Leadership Page/Leadership Page";
 import Leadership from "../Leadership Page/Leadership";
 import Career_Coaching from "../Features_Pages/Career_Coaching/Features - Career_Coaching"
 import Cover_Letter from "../Features_Pages/Cover_Letter/Features - Cover_Letter_Writing";
-import Resume_Writing from "../Features_Pages/Features - Resume_Writing";
-import Interview_Preparation from "../Features_Pages/Features - Interview_Preparation";
-import LinkedIn_Profile from "../Features_Pages/Features - LinkedIn_Profile_Writing";
-import Thank_You_Letter from "../Features_Pages/Features - Thank_You_Letter_Writing";
+import Resume_Writing from "../Features_Pages/Resume_Page/Features - Resume_Writing";
+import Interview_Preparation from "../Features_Pages/Interview_Preparation/Features - Interview_Preparation";
+import LinkedIn_Profile from "../Features_Pages/LinkedIn_Profile/Features - LinkedIn_Profile_Writing";
+import Thank_You_Letter from "../Features_Pages/Thank_You_Letter/Features - Thank_You_Letter_Writing";
 import { render } from "@testing-library/react";
 
 
@@ -17,7 +17,7 @@ export default class App extends React.Component {
   constructor(props){
       super(props);
       this.state = {
-          view : "features-cover-letter",
+          view : "contact-page",
       }
       this.setView = this.setView.bind(this)
   }

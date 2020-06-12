@@ -7,15 +7,16 @@ export default function Side_Divs () {
              <div className = "middle-divs float-right">
                 <div className = "row">
                     <div className = "col-lg-8 why-us-div">
-                            <h4 className = "why-us-div-text-header">Why Us</h4>
+                            <h4 className = "why-us-div-text-header">Did You Know?</h4>
+                            <h4 className = "why-us-div-text-header">The most common interview mistakes</h4>
                             <p className = "side-div-text font-weight-bold">
-                            • We’re Experts! ResumeSpice was developed by recruiters.
+                            • Not doing your homework about the company.
                             </p>
                             <p className = "side-div-text font-weight-bold">
-                            • We’re Fast! Speedy, two-day turnaround.
+                            • Not displaying enthusiasm.
                             </p>
                             <p className = "side-div-text font-weight-bold">
-                            • We Guarantee Our Work! Not getting results? Let us know!
+                            • Not asking for the job!
                             </p>
                     </div>
                 </div>
@@ -23,3 +24,4 @@ export default function Side_Divs () {
         </div>
     );
 }
+

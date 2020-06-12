@@ -1,5 +1,5 @@
 import React from "react";
-import Header_Contents from "../../components/First_Section/Header/Header Contents";
+import Header_Contents from "../../components/First_Section/Header/Header Contents - All_Pages";
 import Blurb_Box from "./Blurb_Box";
 import Side_Divs from "./Side_Divs";
 import Price_Tiles from "./Price_Tiles";

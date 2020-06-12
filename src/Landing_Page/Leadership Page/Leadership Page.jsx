@@ -1,6 +1,6 @@
 import React from "react";
 import All_Sections_Leadership from "./Leadership Page All Sections";
-import Header_Content from "../components/First_Section/Header/Header Contents";
+import Header_Content from "../components/First_Section/Header/Header Contents - All_Pages";
 
 
 export default function Leadership_Page () {

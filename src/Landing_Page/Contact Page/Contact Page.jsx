@@ -1,6 +1,6 @@
 import React from "react";
 import First_Section_Contacts from "./Contact Page All Sections";
-import Header_Content from "../components/First_Section/Header/Header Contents";
+import Header_Content from "../components/First_Section/Header/Header Contents - All_Pages";
 
 export default function Contact_Page_Header() {
     return ( 

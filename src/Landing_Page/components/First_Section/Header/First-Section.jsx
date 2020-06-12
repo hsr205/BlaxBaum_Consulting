@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "./Logo_Regular";
-import Initial_Content from "./Initial_Content"
-import Header_Contents from "./Header Contents"
+import Initial_Content from "./Initial_Content";
+import Header_Content from "./Header Contents - All_Pages";
 
 
 export default function First_Section() {
@@ -10,7 +10,7 @@ export default function First_Section() {
       <div className = "initial-content">
         <header>
           <nav className="navbar fade_scroll header_nav navbar-expand-md navbar-dark">
-            <Header_Contents/>
+            <Header_Content/>
           </nav>
         </header>
         

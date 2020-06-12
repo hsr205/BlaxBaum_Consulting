@@ -100,8 +100,16 @@ hr {
   }
 }
 
-.opp-img {
-  padding: 4%;
+.opp-img-copy {
+  padding: 12.5% 0 8% 0;
+}
+
+.opp-img-case{
+  margin: 2% 0 0.5% 0;
+}
+
+.opp-img-money {
+  padding: 4% 0 7% 0;
 }
 
 .operation-comments {

@@ -3,12 +3,12 @@ import Gav from "./Gav_Blaxberg.jpg";
 
 export default function Gav_Blaxberg() {
     return (
-        <div class="person-content container">
-            <div class="row">
-                <div class="col-lg-5">
+        <div className="person-content container">
+            <div className="row">
+                <div className="col-lg-5">
                     <img className = "head-shots" src={Gav} alt="Gav_Blaxberg" />
                 </div>
-                <div class="col-lg-6">
+                <div className="col-lg-6">
                     <p>Founder</p>
                     <p>Phone: (443) 680-4082</p>
                     <p>Email: <a href="mailto:gavblaxberg@gmail.com">gavblaxberg@gmail.com</a></p>

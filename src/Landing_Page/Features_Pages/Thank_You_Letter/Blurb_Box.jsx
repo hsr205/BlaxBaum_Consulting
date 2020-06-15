@@ -12,7 +12,7 @@ export default function Blurb_Box () {
                         </h5>
                     </div>
         <div className = "col-lg-7 div-under-img-right">
-            <p className = "div-under-img-right-text"><h4 class="font-weight-bold">Following-up after an interview with a well-crafted thank you letter can provide a crucial edge in your job search.</h4>
+            <p className = "div-under-img-right-text"><h4 className="font-weight-bold">Following-up after an interview with a well-crafted thank you letter can provide a crucial edge in your job search.</h4>
                 Writing thank you notes after an interview has become a bit of a lost art – which is exactly why you should write them. 
                 Sending a note can help you stand out from other candidates, by displaying appreciation, follow-through, and professionalism. 
                 In fact, according to a recent CareerBuilder study, 22 percent of employers say they’re less likely to hire a candidate who doesn’t send a thank-you note – 

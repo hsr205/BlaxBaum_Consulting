@@ -12,7 +12,7 @@ export default function Blurb_Box () {
                         </h5>
                     </div>
         <div className = "col-lg-7 div-under-img-right">
-            <p className = "div-under-img-right-text"><h4 class="font-weight-bold">A well-written, professional resume is an absolute must in today’s competitive job market.</h4>
+            <p className = "div-under-img-right-text"><h4 className="font-weight-bold">A well-written, professional resume is an absolute must in today’s competitive job market.</h4>
                 Whether you are applying for a position directly with a company, utilizing a third party recruiter, or being referred by a friend, 
                 your job search process will almost always involve submitting a resume. 
                 ResumeSpice offers several options to fit the various needs of job seekers. Whether you have a resume and just need some quick, 

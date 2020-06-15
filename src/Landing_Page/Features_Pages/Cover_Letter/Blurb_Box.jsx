@@ -11,7 +11,7 @@ export default function Blurb_Box () {
                         </h5>
                     </div>
                     <div className = "col-lg-7 div-under-img-right">
-                        <p className = "div-under-img-right-text"><h4 class="font-weight-bold">A well-written cover letter can be the perfect way to stand out from the crowd. </h4>
+                        <p className = "div-under-img-right-text"><h4 className="font-weight-bold">A well-written cover letter can be the perfect way to stand out from the crowd. </h4>
                         Not all positions provide an opportunity to include a cover letter in your application, but when they do – 
                         our advice is to use that to your advantage! 
                         Cover letters are a perfect time to distinguish yourself from the crowd by addressing why you’re interested in the role, 

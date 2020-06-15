@@ -12,7 +12,7 @@ export default function Blurb_Box () {
                         </h5>
                     </div>
             <div className = "col-lg-7 div-under-img-right">
-                <p className = "div-under-img-right-text"><h4 class="font-weight-bold">Ever wonder why you can get the interview, but not the job?</h4>
+                <p className = "div-under-img-right-text"><h4 className="font-weight-bold">Ever wonder why you can get the interview, but not the job?</h4>
                 LinkedIn is utilized by recruiters and hiring managers in a number of different ways. 
                 In some cases, it’s used to cross-reference information from a candidate’s resume – in other cases, 
                 it’s utilized as a direct recruiting source. Having a complete LinkedIn profile that best represents your professional accomplishments – 

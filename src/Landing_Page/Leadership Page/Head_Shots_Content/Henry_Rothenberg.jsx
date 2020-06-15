@@ -3,12 +3,12 @@ import Henry from "./Henry_Rothenberg.jpg";
 
 export default function Henry_Rothenberg() {
     return (
-        <div class="person-content container">
-            <div class="row">
-                <div class="col-lg-5">
+        <div className="person-content container">
+            <div className="row">
+                <div className="col-lg-5">
                     <img className = "head-shots" src={Henry} alt="Henry_Rothenberg" />
                     </div>
-                <div class="col-lg-6">
+                <div className="col-lg-6">
                     <p>Title Is Redering, Please Wait...</p>
                     <p>Phone: (914) 907-1116 </p>
                     <p>Email: <a href="mailto:hsr205@aol.com">hsr205@aol.com</a></p>

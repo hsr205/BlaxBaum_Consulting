@@ -11,7 +11,7 @@ export default function Blurb_Box () {
                         </h5>
                     </div>
                     <div className = "col-lg-7 div-under-img-right">
-                        <p className = "div-under-img-right-text"><h4 class="font-weight-bold">Do you have someone in your corner?</h4>
+                        <p className = "div-under-img-right-text"><h4 className="font-weight-bold">Do you have someone in your corner?</h4>
                         Whether your goal is to transition to a new career or move up the organization chart within your current company, 
                         having a career coach in your corner can be the key to achieving your career objectives. 
                         The objective, expert advice and concentrated attention that a career coach provides can accelerate your job search, help you negotiate a pay raise, or build a case for a promotion. 

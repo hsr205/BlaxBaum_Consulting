@@ -15,7 +15,7 @@ export default function First_Section() {
         </header>
         
       <div className = "container">
-        <div class="row">
+        <div className="row">
             <div className = "content-under-header">
               <div className = "col-lg-6 logo-regular">
                 <Logo/>
